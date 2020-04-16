@@ -1,2 +1,4 @@
 # hello-world
-test
+Write more things on this read me. 
+Following instructions. 
+What to do next. 
